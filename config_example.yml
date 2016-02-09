@@ -1,0 +1,11 @@
+server: "irc.freenode.net"
+nick: "HelloDecred"
+password: "IRC_PASSWORD"
+channels:
+  - "#decred"
+
+daemon:
+  rpc_host: "127.0.0.1"
+  rpc_port: 9109
+  rpc_user: "rpcuser"
+  rpc_password: "rpcpassword"
